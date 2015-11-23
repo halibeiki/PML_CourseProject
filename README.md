@@ -1,1 +1,3 @@
-# TEST
+# Practical Machine Learning Course Project
+
+It is now possible to collect a large amount of data about personal activity relatively inexpensively with quantified Self devices . The goal of this project is to utilize a sample data from accelerometers on the belt, forearm, arm, and dumbell of 6 participants and then predict the manner in which they did the exercise. In this analysis we build a machine learning model from the sample data with the aim to accurately predict the manner in which the exercises were done. This is a classification problem with discrete categories: the 'classe' varaible in traning data.
